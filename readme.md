@@ -4,15 +4,16 @@
 
 ## 项目预览：
 
-![image-20240511233243401](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20240511233243401.png)
+![image-20240511233531992](https://github.com/Javahhhh/boot-_vue_coreadmin/assets/112531492/4cf1b958-129f-476f-8761-9a1ea8ed6518)
+![image-20240511233407984](https://github.com/Javahhhh/boot-_vue_coreadmin/assets/112531492/1ea41b2e-4680-4777-8bc6-2de30d6f663e)
+
+![image-20240511233318621](https://github.com/Javahhhh/boot-_vue_coreadmin/assets/112531492/b6e1b42c-60c2-4e41-943d-6cba826718cc)
+
+
+![image-20240511233243401](https://github.com/Javahhhh/boot-_vue_coreadmin/assets/112531492/ac696dde-6df3-49cc-8e49-00e46fd0997d)
 
 
 
-![image-20240511233318621](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20240511233318621.png)
-
-![image-20240511233531992](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20240511233531992.png)
-
-![image-20240511233407984](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20240511233407984.png)
 
 ## 特色：
 
@@ -28,7 +29,7 @@
 
 ## 前端项目启动
 
-建议分开启动
+建议前后端分开启动
 
 环境：Node ≥18
 
