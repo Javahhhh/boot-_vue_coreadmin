@@ -1,6 +1,6 @@
 # 前后端分离权限管理系统：
 
-基于 Vue3 + Vite5+ TypeScript5 + Element-Plus + Pinia 等主流技术栈构建的免费开源的后台管理前端模板
+基于 SpringBoot、SpringSecurity、JWT、MybatisPlus、Mysql、Vue等主流技术
 
 ## 项目预览：
 
